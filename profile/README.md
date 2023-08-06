@@ -2,8 +2,6 @@
 
 The Largest Collection of Free Stuff On The Internet!
 
-We :heart: our community, and we have made it easier than ever to contribute: https://github.com/fmhy/FMHYEdit
-
 ## Repositories
 
 | Repository   | Description    |
