@@ -12,6 +12,6 @@ We :heart: our community, and we have made it easier than ever to contribute: ht
 | FMHYEdit   | Make changes to FMHY   |
 | dupe-checker   | A simple dupe checker, maintained by @cevoj35 |
 
-## Discussion
+****
 
-You can discuss about the wiki on our [Lemmy](https://lemmy.fmhy.ml/c/freemediaheckyeah) and our [Divolt](https://fmhy.divolt.xyz).
+## [💬 Discussion](https://redd.it/uto5vw)
