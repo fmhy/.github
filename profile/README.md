@@ -12,5 +12,4 @@ The Largest Collection of Free Stuff On The Internet!
 
 ****
 
-## [💬 Discussion](https://redd.it/17f8msf)
-## [🐭 Lemmy](https://lemmy.dbzer0.com/c/freemediaheckyeah)
+## [💬 Discord](https://redd.it/17f8msf)
