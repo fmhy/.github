@@ -6,9 +6,9 @@ The Largest Collection of Free Stuff On The Internet!
 
 | Repository   | Description    |
 |--------------- | --------------- |
-| FMHY   | Read-only wiki on github   |
-| FMHYEdit   | Make changes to FMHY   |
-| dupe-checker   | A simple dupe checker, maintained by @cevoj35 |
+| [FMHY](https://github.com/fmhy/FMHY)   | Read-only wiki on github   |
+| [FMHYEdit](https://github.com/fmhy/FMHYEdit)   | Make changes to FMHY   |
+| [dupe-checker](https://github.com/fmhy/dupe-checker)   | A simple dupe checker, maintained by @cevoj35 |
 
 ****
 
