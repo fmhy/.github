@@ -12,4 +12,8 @@ The Largest Collection of Free Stuff On The Internet!
 
 ****
 
-## [💬 Discord](https://redd.it/17f8msf)
+## Follow
+
+<p valign="center">
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./assets/firefish.svg" alt="Firefish"></a>
+</p>
