@@ -16,6 +16,7 @@ Here are a few ways you can get involved:
 * You can send us stuff directly via [💬 Discord](https://discord.gg/5W9QJKuPkD).
 * You can also check out our [website](https://fmhy.net) and the [posts](https://fmhy.net/posts) section to know about any major updates to the wiki.
 * To help us find new sites, check out these lists: [Site Hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/) / [Go Through](https://rentry.org/oghty).
+* If you're interested in site development, its recommended to use [gitpod.io](https://gitpod.io/#https://github.com/fmhy/fmhyedit).
 
 ***
 
@@ -29,5 +30,5 @@ Emoji Legend:
 ## Follow
 
 <p valign="center">
-  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./firefish.svg" alt="Firefish"></a>
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="20px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="20px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://social.fmhy.net/@fmhy"><img width="20px" src="./assets/firefish.svg" alt="Firefish"></a>
 </p>
