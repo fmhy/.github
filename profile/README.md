@@ -8,7 +8,7 @@
 
 - Website: [fmhy.net](https://fmhy.net)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
-- Backups: https://github.com/fmhy/FMHY/wiki/Backups
+- Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
 ## 📝 Contribute
 
@@ -24,11 +24,11 @@ Here are a few ways you can get involved:
 
 ***
 
-Emoji Legend:
-
-* 🌐 - 3rd Party Indexes
-* ↪️ - Storage Page Links
-* ⭐ - Community Recommendations
+ **Emoji Legend:**
+ 
+ 🌐 - **3rd Party Indexes**
+* ↪️ - **Storage Page Links**
+* ⭐ - **Community Recommendations**
 
 
 ## 👋 Follow
