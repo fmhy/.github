@@ -31,5 +31,5 @@ Here are a few ways you can get involved:
 ## 🔔 Follow
 
 <p>
-  <a href="https://discord.gg/Stz6y6NgNg"><img width="30px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./assets/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="30px" src="./assets/bluesky.svg" alt="Bluesky"></a>
+  <a href="https://discord.gg/Stz6y6NgNg"><img width="30px" src="https://raw.githubusercontent.com/fmhy/.github/trunk/profile/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="https://raw.githubusercontent.com/fmhy/.github/trunk/profile/github.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/fmhy.bsky.social"><img width="30px" src="https://raw.githubusercontent.com/fmhy/.github/trunk/profile/bluesky.svg" alt="Bluesky"></a>
 </p>
