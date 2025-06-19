@@ -28,6 +28,8 @@ Here are a few ways you can get involved:
 * You can send us stuff directly via [💬 Discord](https://rentry.co/fmhy-invite).
 * To help us find new sites, check out the lists of links in [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/).
 
+**This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.**
+
 ## 🔔 Follow
 
 <p>
