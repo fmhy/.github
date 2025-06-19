@@ -4,6 +4,8 @@
 
 <p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
+**This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.**
+
 ## 📖 Wiki
 
 - Website: [fmhy.net](https://fmhy.net)
@@ -27,8 +29,6 @@ Here are a few ways you can get involved:
 * Approved changes will be applied to the [site](https://fmhy.net) and all [🔒 backups](https://github.com/fmhy/FMHY/wiki/Backups).
 * You can send us stuff directly via [💬 Discord](https://rentry.co/fmhy-invite).
 * To help us find new sites, check out the lists of links in [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/).
-
-**This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.**
 
 ## 🔔 Follow
 
